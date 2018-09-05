@@ -2,4 +2,4 @@ This repository contains material from the paper **Simulating and interpreting d
 
 The NIRSpec simulations can be accessed from the FTP server https://neogal.iap.fr/NIRSpec_simulations/
 
-If you want ot be notified about updates to the simulations, please register [here](http://www.jacopochevallard.org/nirspec-simulations/)
+If you want to be notified about updates to the simulations, please register [here](http://www.jacopochevallard.org/nirspec-simulations/)
